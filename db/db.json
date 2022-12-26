@@ -1,3 +1,14 @@
 {
-
+    "movies": [
+        {
+            "id": 1,
+            "title": "Neki Film",
+            "year": "12/26/2022",
+            "duration": 120,
+            "rating": 5,
+            "description": "Neki opis",
+            "director": "Neki direktor",
+            "logo": "http://urldonekeslike.com"
+        }
+    ]
 }
