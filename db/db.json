@@ -1,34 +1,44 @@
 {
-    "movies": [
-        {
-            "id": 1,
-            "title": "The Godfather",
-            "year": "1972",
-            "duration": 175,
-            "rating": 9.2,
-            "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
-            "director": "Francis Ford Coppola",
-            "logo": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
-        },
-        {
-            "id": 2,
-            "title": "The Dark Knight",
-            "year": "2008",
-            "duration": 182,
-            "rating": 9,
-            "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
-            "director": "Christopher Nolan",
-            "logo": "https://vignette.wikia.nocookie.net/soundeffects/images/9/9b/P173378_p_v8_au.jpg/revision/latest?cb=20171004190518"
-        },
-        {
-            "id": 3,
-            "title": "The Lord of the Rings: The Return of the King",
-            "year": "2003",
-            "duration": 201,
-            "rating": 9,
-            "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-            "director": "Peter Jackson",
-            "logo": "https://images.fandango.com/ImageRenderer/820/0/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/223970/LOTR_ROTK_4K_V_DD_KA_TT_2000x3000_EN.jpg"
-        }
-    ]
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Godfather",
+      "year": "1972",
+      "duration": 175,
+      "rating": 9.2,
+      "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+      "director": "Francis Ford Coppola",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+      "title": "The Dark Knight",
+      "year": "2008",
+      "duration": "182",
+      "rating": "9",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "director": "Christopher Nolan",
+      "logo": "undefined",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003",
+      "duration": 201,
+      "rating": 9,
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "director": "Peter Jackson",
+      "logo": "https://images.fandango.com/ImageRenderer/820/0/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/223970/LOTR_ROTK_4K_V_DD_KA_TT_2000x3000_EN.jpg"
+    },
+    {
+      "title": "American Hardcore",
+      "year": "2006",
+      "duration": "200",
+      "rating": "7.3",
+      "description": "The History of American Punk Rock 1980-1986",
+      "director": "Poul Rachman",
+      "logo": "https://planetdp.org/covers/big/dp3005.jpg",
+      "id": 4
+    }
+  ]
 }
