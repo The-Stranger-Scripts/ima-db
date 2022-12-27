@@ -1,0 +1,19 @@
+.card img {
+    width: 100%;
+    height: 29vw;
+    object-fit: cover;
+}
+
+.card-img-overlay {
+  opacity: 0;
+  bottom: 9vw;
+  background-color: rgba(33, 37, 41, 0.6);
+  transition: opacity .3s;
+}
+
+.card:hover .card-img-overlay {
+  display: block;
+
+  flex-direction: column;
+  opacity: 1;
+}
