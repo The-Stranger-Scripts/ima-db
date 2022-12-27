@@ -8,7 +8,7 @@ fetch('http://localhost:3000/movies')
         movies.forEach(movie => {
             mainContainer.innerHTML += `
                 <div class="col">
-                    <div class="card h-100">
+                    <div class="card border-dark h-100">
                         <div class="card-header">
                             <h5 class="card-title text-info text-center">${movie.title}</h5>
                         </div>
