@@ -2,13 +2,33 @@
     "movies": [
         {
             "id": 1,
-            "title": "Neki Film",
-            "year": "12/26/2022",
-            "duration": 120,
-            "rating": 5,
-            "description": "Neki opis",
-            "director": "Neki direktor",
-            "logo": "http://urldonekeslike.com"
+            "title": "The Godfather",
+            "year": "1972",
+            "duration": 175,
+            "rating": 9.2,
+            "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+            "director": "Francis Ford Coppola",
+            "logo": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+        },
+        {
+            "id": 2,
+            "title": "The Dark Knight",
+            "year": "2008",
+            "duration": 182,
+            "rating": 9,
+            "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+            "director": "Christopher Nolan",
+            "logo": "https://vignette.wikia.nocookie.net/soundeffects/images/9/9b/P173378_p_v8_au.jpg/revision/latest?cb=20171004190518"
+        },
+        {
+            "id": 3,
+            "title": "The Lord of the Rings: The Return of the King",
+            "year": "2003",
+            "duration": 201,
+            "rating": 9,
+            "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+            "director": "Peter Jackson",
+            "logo": "https://th.bing.com/th/id/R.724a63b8f9cc20f18c171bcfa8fdc73c?rik=PVtLQdBPxdvDNg&riu=http%3a%2f%2fwww.amoeba.com%2fsized-images%2fmax%2f500%2f500%2fuploads%2falbums%2fcovers%2fother%2fsoundtrack_lordoftherings.jpg&ehk=uFAVhekwnXWBgkq8zg7hM29pMJR3XMDY69O%2f8IFTgVQ%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"
         }
     ]
 }
