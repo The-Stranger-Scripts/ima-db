@@ -14,7 +14,7 @@ fetch('http://localhost:3000/movies')
             src="${movie.logo}"
             class="card-img-top image" alt="">
           <div class="middle">
-            <h4 class="rating text-warning"><span class="me-1">&#9733;</span>${movie.rating}</h4>
+            <h4 class="rating"><span class="text-warning me-1">&#9733;</span>${movie.rating}</h4>
             <a href='movie_view.html?id=${movie.id}' type="button" class="btn btn-info text">Detaljnije</a>
 
             <div id="buttons-wrap">
