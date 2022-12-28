@@ -1,19 +1,65 @@
 .card img {
-    width: 100%;
-    height: 29vw;
-    object-fit: cover;
+  width: 100%;
+  height: 26vw;
+  object-fit: cover;
+}
+@media (max-width: 768px) {
+  .card img {
+    height: 100%;
+  }
 }
 
-.card-img-overlay {
-  opacity: 0;
-  bottom: 9vw;
-  background-color: rgba(33, 37, 41, 0.6);
-  transition: opacity .3s;
+.img-container {
+  position: relative;
+  /* width: 100%; */
 }
 
-.card:hover .card-img-overlay {
-  display: block;
-
-  flex-direction: column;
+.image {
   opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 100%; 
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.text {
+  align-self: center;
+  width: fit-content;
+  text-align: center;
+}
+.img-container:hover .image {
+  opacity: 0.3;
+}
+
+.img-container:hover .middle {
+  opacity: 1;
+}
+
+.rating {
+  align-self: flex-end;
+  padding-right: 1rem;
+  padding-top: 1rem;
+}
+
+#buttons-wrap {
+  align-self: flex-end;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+}
+
+.edit-button {
+  padding-right: .7rem;
 }
