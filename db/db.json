@@ -1,34 +1,44 @@
 {
-    "movies": [
-        {
-            "id": 1,
-            "title": "The Godfather",
-            "year": "1972",
-            "duration": 175,
-            "rating": 9.2,
-            "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
-            "director": "Francis Ford Coppola",
-            "logo": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
-        },
-        {
-            "id": 2,
-            "title": "The Dark Knight",
-            "year": "2008",
-            "duration": 182,
-            "rating": 9,
-            "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
-            "director": "Christopher Nolan",
-            "logo": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg"
-        },
-        {
-            "id": 3,
-            "title": "The Lord of the Rings: The Return of the King",
-            "year": "2003",
-            "duration": 201,
-            "rating": 9,
-            "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-            "director": "Peter Jackson",
-            "logo": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
-        }
-    ]
+  "movies": [
+    {
+      "title": "The Godfather",
+      "year": "1972",
+      "duration": "175",
+      "rating": "9.3",
+      "description": "The Godfather \"Don\" Vito Corleone is the head of the Corleone mafia family in New York. He is at the event of his daughter's wedding. Michael, Vito's youngest son and a decorated WW II Marine is also present at the wedding. Michael seems to be uninterested in being a part of the family business. Vito is a powerful man , and is kind to all those who give him respect but is ruthless against those who do not. But when a powerful and treacherous rival wants to sell drugs and needs the Don's influence for the same, Vito refuses to do it. What follows is a clash between Vito's fading old values and the new ways which may cause Michael to do the thing he was most reluctant in doing and wage a mob war against all the other mafia families which could tear the Corleone family apart.",
+      "director": "Francis Ford Coppola",
+      "logo": "https://th.bing.com/th/id/R.6061c6b4025e8407ea3ca79056284317?rik=t%2fQdXJio8jAMKQ&riu=http%3a%2f%2fsee-aych.com%2fwp-content%2fuploads%2f2016%2f07%2fthe-godfather-1972-movie-poster.jpg&ehk=lVqZnOql1GOZX7t17fHc24yNvTN%2f0EsW0VesqQm5XrQ%3d&risl=&pid=ImgRaw&r=0",
+      "id": 1
+    },
+    {
+      "title": "The Dark Knight",
+      "year": "2008",
+      "duration": "182",
+      "rating": "9.0",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "director": "Christopher Nolan",
+      "logo": "https://th.bing.com/th/id/R.8938ba104f8f7712c10123a1b2d5ee5b?rik=6uXRrdzlTGSq0Q&riu=http%3a%2f%2fis5.mzstatic.com%2fimage%2fthumb%2fVideo118%2fv4%2f67%2f33%2f17%2f673317f2-24ae-6432-40cb-dfc6b51eef1e%2fsource%2f1200x630bb.jpg&ehk=7rOG0otC8Q3AJ%2bAKcRJ644YfpFwOGI4YQxtpOGGQsdE%3d&risl=&pid=ImgRaw&r=0",
+      "id": 2
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003",
+      "duration": "201",
+      "rating": "9.0",
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "director": "Peter Jackson",
+      "logo": "https://images.fandango.com/ImageRenderer/820/0/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/223970/LOTR_ROTK_4K_V_DD_KA_TT_2000x3000_EN.jpg",
+      "id": 3
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "year": "2022",
+      "duration": "192",
+      "rating": "8.0",
+      "description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+      "director": " James Cameron",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg",
+      "id": 4
+    }
+  ]
 }
