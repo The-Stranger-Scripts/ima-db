@@ -27,7 +27,7 @@ if (id) {
             yearInput.value = data.year;
             durationInput.value = data.duration;
             ratingInput.value = data.rating;
-            urlInput.value = data.url;
+            urlInput.value = data.logo;
             descriptionInput.value = data.description;
         })
 }
