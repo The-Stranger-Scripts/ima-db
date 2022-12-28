@@ -43,7 +43,9 @@ fetch('http://localhost:3000/movies')
 
 
         <div class="card-body">
-          <h5 class="card-title text-light-emphasis">${movie.title}</h5>
+          <a href="movie_view.html?id=${movie.id}" style="text-decoration: none;">
+            <h5 class="card-title text-light-emphasis">${movie.title}</h5>
+          </a>
           <p class="text-secondary">${movie.year}</p>
         </div>
       </div>
