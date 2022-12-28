@@ -51,7 +51,7 @@
 .rating {
   align-self: flex-end;
   padding-right: 1rem;
-  padding-top: 1rem;
+  padding-top: 0.5rem;
 }
 
 #buttons-wrap {
