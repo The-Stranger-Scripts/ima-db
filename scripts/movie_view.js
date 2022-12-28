@@ -1,4 +1,5 @@
 const viewContainer = document.getElementById('viewContainer');
+
 const queryString = location.href;
 
 function getQueryParams(url) {

@@ -39,6 +39,96 @@
       "director": " James Cameron",
       "logo": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg",
       "id": 4
+    },
+    {
+      "title": "Macak u cizmama",
+      "year": "2022",
+      "duration": "97",
+      "rating": "9",
+      "description": "Puss in Boots discovers that his passion for adventure has taken its toll: he has burned through eight of his nine lives. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+      "director": "Sara Carkic",
+      "logo": "https://2.bp.blogspot.com/-1WxwZyJVzwg/TtqRd25FBzI/AAAAAAAAAh8/lh3EXpTqVgQ/s1600/macak-u-cizmama.jpg",
+      "id": 5
+    },
+    {
+      "title": "Viktorius",
+      "year": "2010",
+      "duration": "22",
+      "rating": "10",
+      "description": "radi se o deci iz Viktorijusa  koji idu u umetnicku skolu.",
+      "director": "Kaca Vukovic",
+      "logo": "https://1.bp.blogspot.com/-BixOxzWNiAM/X6M77_J0rCI/AAAAAAAAOZM/dh4MYujmxTg5MEOtHMRYYGL54a7ltmivQCNcBGAsYHQ/s0/viktroijus_victorious_sve_epizode_na_srpskom.webp",
+      "id": 6
+    },
+    {
+      "title": "Greys Anathomy",
+      "year": "2005",
+      "duration": "43",
+      "rating": "10",
+      "description": "Uvod u anatomiju (енгл. Grey's Anatomy) je američka medicinska drama televizijska serija TV kuće ABC. U Srbiji je prikazivana na televizijama B92, Foks lajf i Prva plus. Originalni naziv je dobila po čuvenom udžbeniku „Grejova anatomija” koji se koristi na prvoj godini studija medicine[1], a kako se glavna junakinja Meridit preziva Grej, otuda paralela. Radnja je smeštena u zamišljenoj bolnici „Sijetl grejs” u Sijetlu gde pet stažista započinje svoju hiruršku karijeru.",
+      "director": "Shonda Rajms",
+      "logo": "https://images.immediate.co.uk/production/volatile/sites/3/2020/11/greys-anatomy-season-17-iconic-defadd4.jpg",
+      "id": 7
+    },
+    {
+      "title": "Avatar",
+      "year": "2005",
+      "duration": "25",
+      "rating": "8.7",
+      "description": "o Avataru koji pokusava da spasi kometu",
+      "director": "Iva Carkic",
+      "logo": "https://ksr-ugc.imgix.net/assets/034/322/604/633821b3dd5a74c955ab8500730436cd_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1627318207&auto=format&frame=1&q=92&s=bf1a76c3d7537afd9647c19db073382a",
+      "id": 8
+    },
+    {
+      "title": "Enola Holmes",
+      "year": "2022",
+      "duration": "145",
+      "rating": "9.3",
+      "description": "Devojcica je postala detektiv i resava slucajeve",
+      "director": "Bane Carkic",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDI1NWM1ZDItNDFhMi00YWRhLTg1YzItNTNhY2M2N2QzY2FkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+      "id": 9
+    },
+    {
+      "title": "Guillermo del Toro's Pinocchio",
+      "year": "2022",
+      "duration": "117",
+      "rating": "7.7",
+      "description": "Academy Award®-winning filmmaker Guillermo del Toro reinvents Carlo Collodi's classic tale of the wooden marionette who is magically brought to life in order to mend the heart of a grieving woodcarver named Geppetto. This whimsical, stop-motion musical directed by Guillermo del Toro and Mark Gustafson follows the mischievous and disobedient adventures of Pinocchio in his pursuit of a place in the world.",
+      "director": "Guillermo del ToroMark Gustafson",
+      "logo": "https://th.bing.com/th/id/R.d59d0804d5e1e3576b145b46d40ad5ad?rik=bBD5ZL1klAbKXQ&pid=ImgRaw&r=0",
+      "id": 10
+    },
+    {
+      "title": "The Grinch",
+      "year": "2018",
+      "duration": "85",
+      "rating": "6.3",
+      "description": "For their eighth fully animated feature, Illumination and Universal Pictures present The Grinch, based on Dr. Seuss' beloved holiday classic. The Grinch tells the story of a cynical grump who goes on a mission to steal Christmas, only to have his heart changed by a young girl's generous holiday spirit. Funny, heartwarming, and visually stunning, it's a universal story about the spirit of Christmas and the indomitable power of optimism. Academy Award nominee Benedict Cumberbatch lends his voice to the infamous Grinch, who lives a solitary life inside a cave on Mt. Crumpet with only his loyal dog, Max, for company. With a cave rigged with inventions and contraptions for his day-to-day needs, the Grinch only sees his neighbors in Whoville when he runs out of food. Each year at Christmas they disrupt his tranquil solitude with their increasingly bigger, brighter, and louder celebrations. When the Whos declare they are going to make Christmas three times bigger this year, the Grinch realizes there is only one way for him to gain some peace and quiet: he must steal Christmas. To do so, he decides to pose as Santa Claus on Christmas Eve, even going so far as to trap a lackadaisical misfit reindeer to pull his sleigh. Meanwhile, down in Whoville, Cindy-Lou Who (Cameron Seely), a young girl overflowing with holiday cheer, plots with her gang of friends to trap Santa Claus as he makes his Christmas Eve rounds so that she can thank him for help for her overworked single mother. As Christmas approaches, however, her good-natured scheme threatens to collide with the Grinch's more nefarious one. Will Cindy-Lou achieve her goal of finally meeting Santa Claus? Will the Grinch succeed in silencing the Whos' holiday cheer once and for all?—Universal Pictures",
+      "director": " Yarrow Cheney Scott Mosier",
+      "logo": "https://cdn.flickeringmyth.com/wp-content/uploads/2017/12/How-the-Grinch-Stole-Christmas-poster-2-600x750.jpg",
+      "id": 11
+    },
+    {
+      "title": "  Sing 2",
+      "year": "2021",
+      "duration": "110",
+      "rating": "7.4",
+      "description": "With his theatrical company a local success, Buster Moon is dreaming of bigger things. Unfortunately, when a talent scout dismisses their work as inadequate for the big time, Buster is driven to prove her wrong. With that goal in mind, Buster inspires his players to gamble everything to sneak into a talent audition in Redshore City for the demanding entertainment mogul Jimmy Crystal. Against the odds, they catch his interest with some frantic creative improvisation and even more desperate lies like personally knowing the reclusive rock star, Clay Calloway, who has not been seen in 15 years. Now faced with a tight production window with only a vague story idea and dire consequences for failure, Buster and his friends must all stretch their talents put on a show against all odds. In that struggle, the gang's challenges seem insurmountable, but each of them finds new inspirations and friends where they least expect them to pursue an artistic dream worthy of them.—Kenneth Chisholm (kchishol1970@gmail.com)",
+      "director": "Garth Jennings Christophe Lourdelet",
+      "logo": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/sing-2/images/regions/us/onesheet.jpg",
+      "id": 12
+    },
+    {
+      "title": "Frozen",
+      "year": "2013",
+      "duration": "102",
+      "rating": "7.4",
+      "description": "Fearless optimist Anna teams up with rugged mountain man Kristoff and his loyal reindeer Sven and sets off on an epic journey to find her sister Elsa, whose icy powers have trapped the kingdom of Arendelle in eternal winter. Encountering Everest-like conditions, mystical trolls and a hilarious snowman named Olaf, Anna and Kristoff battle the elements in a race to save the kingdom. From the outside Elsa looks poised, regal and reserved, but in reality she lives in fear as she wrestles with a mighty secret: she was born with the power to create ice and snow. It's a beautiful ability, but also extremely dangerous. Haunted by the moment her magic nearly killed her younger sister Anna, Elsa has isolated herself, spending every waking minute trying to suppress her growing powers. Her mounting emotions trigger the magic, accidentally setting off an eternal winter that she can't stop. She fears she's becoming a monster and that no one, not even her sister, can help her.—DeAlan Wilson for ComedyE.com",
+      "director": "Chris BuckJennifer Lee",
+      "logo": "https://i.pinimg.com/736x/d5/3d/e1/d53de122cb2b77a6b49eeb3e20a6a084.jpg",
+      "id": 13
     }
   ]
 }
